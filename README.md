@@ -1,5 +1,5 @@
 # Java JSON Schema Generator – Module Template
-[![Build Status](https://travis-ci.org/victools/jsonschema-module-template.svg?branch=master)](https://travis-ci.org/victools/jsonschema-module-template)
+[![Build Status](https://github.com/victools/jsonschema-module-template/workflows/Java%20CI%20(Maven)/badge.svg)](https://github.com/victools/jsonschema-module-template/actions?query=workflow%3A%22Java+CI+%28Maven%29%22)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.victools/jsonschema-module-template/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.victools/jsonschema-module-template)
 
 Module for the `jsonschema-generator` – Template
